@@ -1,0 +1,15 @@
+C:\Users\Mahdi\Desktop\Two-Sum_And_Palindrome-Number\Two-Sum_And_Palindrome-Number\bin\Debug\net6.0\Two-Sum_And_Palindrome-Number.exe
+C:\Users\Mahdi\Desktop\Two-Sum_And_Palindrome-Number\Two-Sum_And_Palindrome-Number\bin\Debug\net6.0\Two-Sum_And_Palindrome-Number.deps.json
+C:\Users\Mahdi\Desktop\Two-Sum_And_Palindrome-Number\Two-Sum_And_Palindrome-Number\bin\Debug\net6.0\Two-Sum_And_Palindrome-Number.runtimeconfig.json
+C:\Users\Mahdi\Desktop\Two-Sum_And_Palindrome-Number\Two-Sum_And_Palindrome-Number\bin\Debug\net6.0\Two-Sum_And_Palindrome-Number.dll
+C:\Users\Mahdi\Desktop\Two-Sum_And_Palindrome-Number\Two-Sum_And_Palindrome-Number\bin\Debug\net6.0\ref\Two-Sum_And_Palindrome-Number.dll
+C:\Users\Mahdi\Desktop\Two-Sum_And_Palindrome-Number\Two-Sum_And_Palindrome-Number\bin\Debug\net6.0\Two-Sum_And_Palindrome-Number.pdb
+C:\Users\Mahdi\Desktop\Two-Sum_And_Palindrome-Number\Two-Sum_And_Palindrome-Number\obj\Debug\net6.0\Two-Sum_And_Palindrome-Number.csproj.AssemblyReference.cache
+C:\Users\Mahdi\Desktop\Two-Sum_And_Palindrome-Number\Two-Sum_And_Palindrome-Number\obj\Debug\net6.0\Two-Sum_And_Palindrome-Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahdi\Desktop\Two-Sum_And_Palindrome-Number\Two-Sum_And_Palindrome-Number\obj\Debug\net6.0\Two-Sum_And_Palindrome-Number.AssemblyInfoInputs.cache
+C:\Users\Mahdi\Desktop\Two-Sum_And_Palindrome-Number\Two-Sum_And_Palindrome-Number\obj\Debug\net6.0\Two-Sum_And_Palindrome-Number.AssemblyInfo.cs
+C:\Users\Mahdi\Desktop\Two-Sum_And_Palindrome-Number\Two-Sum_And_Palindrome-Number\obj\Debug\net6.0\Two-Sum_And_Palindrome-Number.csproj.CoreCompileInputs.cache
+C:\Users\Mahdi\Desktop\Two-Sum_And_Palindrome-Number\Two-Sum_And_Palindrome-Number\obj\Debug\net6.0\Two-Sum_And_Palindrome-Number.dll
+C:\Users\Mahdi\Desktop\Two-Sum_And_Palindrome-Number\Two-Sum_And_Palindrome-Number\obj\Debug\net6.0\ref\Two-Sum_And_Palindrome-Number.dll
+C:\Users\Mahdi\Desktop\Two-Sum_And_Palindrome-Number\Two-Sum_And_Palindrome-Number\obj\Debug\net6.0\Two-Sum_And_Palindrome-Number.pdb
+C:\Users\Mahdi\Desktop\Two-Sum_And_Palindrome-Number\Two-Sum_And_Palindrome-Number\obj\Debug\net6.0\Two-Sum_And_Palindrome-Number.genruntimeconfig.cache

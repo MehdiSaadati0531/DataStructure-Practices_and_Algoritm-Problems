@@ -1,0 +1,15 @@
+C:\Users\Mahdi\Desktop\Valid_Parentheses\Valid_Parentheses\bin\Debug\net6.0\Valid_Parentheses.exe
+C:\Users\Mahdi\Desktop\Valid_Parentheses\Valid_Parentheses\bin\Debug\net6.0\Valid_Parentheses.deps.json
+C:\Users\Mahdi\Desktop\Valid_Parentheses\Valid_Parentheses\bin\Debug\net6.0\Valid_Parentheses.runtimeconfig.json
+C:\Users\Mahdi\Desktop\Valid_Parentheses\Valid_Parentheses\bin\Debug\net6.0\Valid_Parentheses.dll
+C:\Users\Mahdi\Desktop\Valid_Parentheses\Valid_Parentheses\bin\Debug\net6.0\ref\Valid_Parentheses.dll
+C:\Users\Mahdi\Desktop\Valid_Parentheses\Valid_Parentheses\bin\Debug\net6.0\Valid_Parentheses.pdb
+C:\Users\Mahdi\Desktop\Valid_Parentheses\Valid_Parentheses\obj\Debug\net6.0\Valid_Parentheses.csproj.AssemblyReference.cache
+C:\Users\Mahdi\Desktop\Valid_Parentheses\Valid_Parentheses\obj\Debug\net6.0\Valid_Parentheses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahdi\Desktop\Valid_Parentheses\Valid_Parentheses\obj\Debug\net6.0\Valid_Parentheses.AssemblyInfoInputs.cache
+C:\Users\Mahdi\Desktop\Valid_Parentheses\Valid_Parentheses\obj\Debug\net6.0\Valid_Parentheses.AssemblyInfo.cs
+C:\Users\Mahdi\Desktop\Valid_Parentheses\Valid_Parentheses\obj\Debug\net6.0\Valid_Parentheses.csproj.CoreCompileInputs.cache
+C:\Users\Mahdi\Desktop\Valid_Parentheses\Valid_Parentheses\obj\Debug\net6.0\Valid_Parentheses.dll
+C:\Users\Mahdi\Desktop\Valid_Parentheses\Valid_Parentheses\obj\Debug\net6.0\ref\Valid_Parentheses.dll
+C:\Users\Mahdi\Desktop\Valid_Parentheses\Valid_Parentheses\obj\Debug\net6.0\Valid_Parentheses.pdb
+C:\Users\Mahdi\Desktop\Valid_Parentheses\Valid_Parentheses\obj\Debug\net6.0\Valid_Parentheses.genruntimeconfig.cache
