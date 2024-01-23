@@ -1,0 +1,15 @@
+C:\mahdi saadati\Tamrin\n_kProject\n_kProject\obj\Debug\net6.0\n_kProject.csproj.AssemblyReference.cache
+C:\mahdi saadati\Tamrin\n_kProject\n_kProject\obj\Debug\net6.0\n_kProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\mahdi saadati\Tamrin\n_kProject\n_kProject\obj\Debug\net6.0\n_kProject.AssemblyInfoInputs.cache
+C:\mahdi saadati\Tamrin\n_kProject\n_kProject\obj\Debug\net6.0\n_kProject.AssemblyInfo.cs
+C:\mahdi saadati\Tamrin\n_kProject\n_kProject\obj\Debug\net6.0\n_kProject.csproj.CoreCompileInputs.cache
+C:\mahdi saadati\Tamrin\n_kProject\n_kProject\bin\Debug\net6.0\n_kProject.exe
+C:\mahdi saadati\Tamrin\n_kProject\n_kProject\bin\Debug\net6.0\n_kProject.deps.json
+C:\mahdi saadati\Tamrin\n_kProject\n_kProject\bin\Debug\net6.0\n_kProject.runtimeconfig.json
+C:\mahdi saadati\Tamrin\n_kProject\n_kProject\bin\Debug\net6.0\n_kProject.dll
+C:\mahdi saadati\Tamrin\n_kProject\n_kProject\bin\Debug\net6.0\n_kProject.pdb
+C:\mahdi saadati\Tamrin\n_kProject\n_kProject\obj\Debug\net6.0\n_kProject.dll
+C:\mahdi saadati\Tamrin\n_kProject\n_kProject\obj\Debug\net6.0\refint\n_kProject.dll
+C:\mahdi saadati\Tamrin\n_kProject\n_kProject\obj\Debug\net6.0\n_kProject.pdb
+C:\mahdi saadati\Tamrin\n_kProject\n_kProject\obj\Debug\net6.0\n_kProject.genruntimeconfig.cache
+C:\mahdi saadati\Tamrin\n_kProject\n_kProject\obj\Debug\net6.0\ref\n_kProject.dll
