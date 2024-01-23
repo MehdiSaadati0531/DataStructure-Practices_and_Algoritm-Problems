@@ -1,0 +1,15 @@
+C:\Users\Mahdi\Desktop\Graph\Graph\bin\Debug\net6.0\Graph.exe
+C:\Users\Mahdi\Desktop\Graph\Graph\bin\Debug\net6.0\Graph.deps.json
+C:\Users\Mahdi\Desktop\Graph\Graph\bin\Debug\net6.0\Graph.runtimeconfig.json
+C:\Users\Mahdi\Desktop\Graph\Graph\bin\Debug\net6.0\Graph.dll
+C:\Users\Mahdi\Desktop\Graph\Graph\bin\Debug\net6.0\ref\Graph.dll
+C:\Users\Mahdi\Desktop\Graph\Graph\bin\Debug\net6.0\Graph.pdb
+C:\Users\Mahdi\Desktop\Graph\Graph\obj\Debug\net6.0\Graph.csproj.AssemblyReference.cache
+C:\Users\Mahdi\Desktop\Graph\Graph\obj\Debug\net6.0\Graph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahdi\Desktop\Graph\Graph\obj\Debug\net6.0\Graph.AssemblyInfoInputs.cache
+C:\Users\Mahdi\Desktop\Graph\Graph\obj\Debug\net6.0\Graph.AssemblyInfo.cs
+C:\Users\Mahdi\Desktop\Graph\Graph\obj\Debug\net6.0\Graph.csproj.CoreCompileInputs.cache
+C:\Users\Mahdi\Desktop\Graph\Graph\obj\Debug\net6.0\Graph.dll
+C:\Users\Mahdi\Desktop\Graph\Graph\obj\Debug\net6.0\ref\Graph.dll
+C:\Users\Mahdi\Desktop\Graph\Graph\obj\Debug\net6.0\Graph.pdb
+C:\Users\Mahdi\Desktop\Graph\Graph\obj\Debug\net6.0\Graph.genruntimeconfig.cache
