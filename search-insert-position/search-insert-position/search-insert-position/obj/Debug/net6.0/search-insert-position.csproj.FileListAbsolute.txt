@@ -1,0 +1,15 @@
+C:\Users\Mahdi\Desktop\search-insert-position\search-insert-position\bin\Debug\net6.0\search-insert-position.exe
+C:\Users\Mahdi\Desktop\search-insert-position\search-insert-position\bin\Debug\net6.0\search-insert-position.deps.json
+C:\Users\Mahdi\Desktop\search-insert-position\search-insert-position\bin\Debug\net6.0\search-insert-position.runtimeconfig.json
+C:\Users\Mahdi\Desktop\search-insert-position\search-insert-position\bin\Debug\net6.0\search-insert-position.dll
+C:\Users\Mahdi\Desktop\search-insert-position\search-insert-position\bin\Debug\net6.0\ref\search-insert-position.dll
+C:\Users\Mahdi\Desktop\search-insert-position\search-insert-position\bin\Debug\net6.0\search-insert-position.pdb
+C:\Users\Mahdi\Desktop\search-insert-position\search-insert-position\obj\Debug\net6.0\search-insert-position.csproj.AssemblyReference.cache
+C:\Users\Mahdi\Desktop\search-insert-position\search-insert-position\obj\Debug\net6.0\search-insert-position.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahdi\Desktop\search-insert-position\search-insert-position\obj\Debug\net6.0\search-insert-position.AssemblyInfoInputs.cache
+C:\Users\Mahdi\Desktop\search-insert-position\search-insert-position\obj\Debug\net6.0\search-insert-position.AssemblyInfo.cs
+C:\Users\Mahdi\Desktop\search-insert-position\search-insert-position\obj\Debug\net6.0\search-insert-position.csproj.CoreCompileInputs.cache
+C:\Users\Mahdi\Desktop\search-insert-position\search-insert-position\obj\Debug\net6.0\search-insert-position.dll
+C:\Users\Mahdi\Desktop\search-insert-position\search-insert-position\obj\Debug\net6.0\ref\search-insert-position.dll
+C:\Users\Mahdi\Desktop\search-insert-position\search-insert-position\obj\Debug\net6.0\search-insert-position.pdb
+C:\Users\Mahdi\Desktop\search-insert-position\search-insert-position\obj\Debug\net6.0\search-insert-position.genruntimeconfig.cache

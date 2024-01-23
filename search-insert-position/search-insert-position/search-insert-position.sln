@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "search-insert-position", "search-insert-position\search-insert-position.csproj", "{7F46D386-CA02-410A-B490-AC810F0EF31A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F46D386-CA02-410A-B490-AC810F0EF31A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F46D386-CA02-410A-B490-AC810F0EF31A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F46D386-CA02-410A-B490-AC810F0EF31A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F46D386-CA02-410A-B490-AC810F0EF31A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3AC4CAC-2A22-46CC-B877-0BE910A9E42B}
+	EndGlobalSection
+EndGlobal

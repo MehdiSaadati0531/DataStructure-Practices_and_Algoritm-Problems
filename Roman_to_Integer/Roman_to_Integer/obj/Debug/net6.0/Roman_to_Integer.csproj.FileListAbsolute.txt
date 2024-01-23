@@ -1,0 +1,15 @@
+C:\Users\Mahdi\Desktop\Roman_to_Integer\Roman_to_Integer\bin\Debug\net6.0\Roman_to_Integer.exe
+C:\Users\Mahdi\Desktop\Roman_to_Integer\Roman_to_Integer\bin\Debug\net6.0\Roman_to_Integer.deps.json
+C:\Users\Mahdi\Desktop\Roman_to_Integer\Roman_to_Integer\bin\Debug\net6.0\Roman_to_Integer.runtimeconfig.json
+C:\Users\Mahdi\Desktop\Roman_to_Integer\Roman_to_Integer\bin\Debug\net6.0\Roman_to_Integer.dll
+C:\Users\Mahdi\Desktop\Roman_to_Integer\Roman_to_Integer\bin\Debug\net6.0\ref\Roman_to_Integer.dll
+C:\Users\Mahdi\Desktop\Roman_to_Integer\Roman_to_Integer\bin\Debug\net6.0\Roman_to_Integer.pdb
+C:\Users\Mahdi\Desktop\Roman_to_Integer\Roman_to_Integer\obj\Debug\net6.0\Roman_to_Integer.csproj.AssemblyReference.cache
+C:\Users\Mahdi\Desktop\Roman_to_Integer\Roman_to_Integer\obj\Debug\net6.0\Roman_to_Integer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahdi\Desktop\Roman_to_Integer\Roman_to_Integer\obj\Debug\net6.0\Roman_to_Integer.AssemblyInfoInputs.cache
+C:\Users\Mahdi\Desktop\Roman_to_Integer\Roman_to_Integer\obj\Debug\net6.0\Roman_to_Integer.AssemblyInfo.cs
+C:\Users\Mahdi\Desktop\Roman_to_Integer\Roman_to_Integer\obj\Debug\net6.0\Roman_to_Integer.csproj.CoreCompileInputs.cache
+C:\Users\Mahdi\Desktop\Roman_to_Integer\Roman_to_Integer\obj\Debug\net6.0\Roman_to_Integer.dll
+C:\Users\Mahdi\Desktop\Roman_to_Integer\Roman_to_Integer\obj\Debug\net6.0\ref\Roman_to_Integer.dll
+C:\Users\Mahdi\Desktop\Roman_to_Integer\Roman_to_Integer\obj\Debug\net6.0\Roman_to_Integer.pdb
+C:\Users\Mahdi\Desktop\Roman_to_Integer\Roman_to_Integer\obj\Debug\net6.0\Roman_to_Integer.genruntimeconfig.cache
