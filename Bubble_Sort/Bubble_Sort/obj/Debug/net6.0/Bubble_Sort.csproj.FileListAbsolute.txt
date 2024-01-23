@@ -1,0 +1,15 @@
+C:\Users\Mahdi\Desktop\Bubble_Sort\Bubble_Sort\bin\Debug\net6.0\Bubble_Sort.exe
+C:\Users\Mahdi\Desktop\Bubble_Sort\Bubble_Sort\bin\Debug\net6.0\Bubble_Sort.deps.json
+C:\Users\Mahdi\Desktop\Bubble_Sort\Bubble_Sort\bin\Debug\net6.0\Bubble_Sort.runtimeconfig.json
+C:\Users\Mahdi\Desktop\Bubble_Sort\Bubble_Sort\bin\Debug\net6.0\Bubble_Sort.dll
+C:\Users\Mahdi\Desktop\Bubble_Sort\Bubble_Sort\bin\Debug\net6.0\ref\Bubble_Sort.dll
+C:\Users\Mahdi\Desktop\Bubble_Sort\Bubble_Sort\bin\Debug\net6.0\Bubble_Sort.pdb
+C:\Users\Mahdi\Desktop\Bubble_Sort\Bubble_Sort\obj\Debug\net6.0\Bubble_Sort.csproj.AssemblyReference.cache
+C:\Users\Mahdi\Desktop\Bubble_Sort\Bubble_Sort\obj\Debug\net6.0\Bubble_Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahdi\Desktop\Bubble_Sort\Bubble_Sort\obj\Debug\net6.0\Bubble_Sort.AssemblyInfoInputs.cache
+C:\Users\Mahdi\Desktop\Bubble_Sort\Bubble_Sort\obj\Debug\net6.0\Bubble_Sort.AssemblyInfo.cs
+C:\Users\Mahdi\Desktop\Bubble_Sort\Bubble_Sort\obj\Debug\net6.0\Bubble_Sort.csproj.CoreCompileInputs.cache
+C:\Users\Mahdi\Desktop\Bubble_Sort\Bubble_Sort\obj\Debug\net6.0\Bubble_Sort.dll
+C:\Users\Mahdi\Desktop\Bubble_Sort\Bubble_Sort\obj\Debug\net6.0\ref\Bubble_Sort.dll
+C:\Users\Mahdi\Desktop\Bubble_Sort\Bubble_Sort\obj\Debug\net6.0\Bubble_Sort.pdb
+C:\Users\Mahdi\Desktop\Bubble_Sort\Bubble_Sort\obj\Debug\net6.0\Bubble_Sort.genruntimeconfig.cache

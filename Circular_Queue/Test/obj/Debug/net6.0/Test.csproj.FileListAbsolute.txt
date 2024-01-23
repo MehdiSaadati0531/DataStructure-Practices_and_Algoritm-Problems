@@ -1,0 +1,15 @@
+C:\Users\Mahdi\source\repos\Test\Test\bin\Debug\net6.0\Test.exe
+C:\Users\Mahdi\source\repos\Test\Test\bin\Debug\net6.0\Test.deps.json
+C:\Users\Mahdi\source\repos\Test\Test\bin\Debug\net6.0\Test.runtimeconfig.json
+C:\Users\Mahdi\source\repos\Test\Test\bin\Debug\net6.0\Test.dll
+C:\Users\Mahdi\source\repos\Test\Test\bin\Debug\net6.0\ref\Test.dll
+C:\Users\Mahdi\source\repos\Test\Test\bin\Debug\net6.0\Test.pdb
+C:\Users\Mahdi\source\repos\Test\Test\obj\Debug\net6.0\Test.csproj.AssemblyReference.cache
+C:\Users\Mahdi\source\repos\Test\Test\obj\Debug\net6.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahdi\source\repos\Test\Test\obj\Debug\net6.0\Test.AssemblyInfoInputs.cache
+C:\Users\Mahdi\source\repos\Test\Test\obj\Debug\net6.0\Test.AssemblyInfo.cs
+C:\Users\Mahdi\source\repos\Test\Test\obj\Debug\net6.0\Test.csproj.CoreCompileInputs.cache
+C:\Users\Mahdi\source\repos\Test\Test\obj\Debug\net6.0\Test.dll
+C:\Users\Mahdi\source\repos\Test\Test\obj\Debug\net6.0\ref\Test.dll
+C:\Users\Mahdi\source\repos\Test\Test\obj\Debug\net6.0\Test.pdb
+C:\Users\Mahdi\source\repos\Test\Test\obj\Debug\net6.0\Test.genruntimeconfig.cache
