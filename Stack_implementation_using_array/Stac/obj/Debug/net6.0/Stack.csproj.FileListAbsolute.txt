@@ -1,0 +1,14 @@
+C:\Mahdi-Saadati\Tamrin\Stac\Stac\bin\Debug\net6.0\Stack.exe
+C:\Mahdi-Saadati\Tamrin\Stac\Stac\bin\Debug\net6.0\Stack.deps.json
+C:\Mahdi-Saadati\Tamrin\Stac\Stac\bin\Debug\net6.0\Stack.runtimeconfig.json
+C:\Mahdi-Saadati\Tamrin\Stac\Stac\bin\Debug\net6.0\Stack.dll
+C:\Mahdi-Saadati\Tamrin\Stac\Stac\bin\Debug\net6.0\ref\Stack.dll
+C:\Mahdi-Saadati\Tamrin\Stac\Stac\bin\Debug\net6.0\Stack.pdb
+C:\Mahdi-Saadati\Tamrin\Stac\Stac\obj\Debug\net6.0\Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mahdi-Saadati\Tamrin\Stac\Stac\obj\Debug\net6.0\Stack.AssemblyInfoInputs.cache
+C:\Mahdi-Saadati\Tamrin\Stac\Stac\obj\Debug\net6.0\Stack.AssemblyInfo.cs
+C:\Mahdi-Saadati\Tamrin\Stac\Stac\obj\Debug\net6.0\Stack.csproj.CoreCompileInputs.cache
+C:\Mahdi-Saadati\Tamrin\Stac\Stac\obj\Debug\net6.0\Stack.dll
+C:\Mahdi-Saadati\Tamrin\Stac\Stac\obj\Debug\net6.0\ref\Stack.dll
+C:\Mahdi-Saadati\Tamrin\Stac\Stac\obj\Debug\net6.0\Stack.pdb
+C:\Mahdi-Saadati\Tamrin\Stac\Stac\obj\Debug\net6.0\Stack.genruntimeconfig.cache

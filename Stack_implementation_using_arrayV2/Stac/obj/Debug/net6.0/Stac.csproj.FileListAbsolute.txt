@@ -1,0 +1,15 @@
+C:\mahdi saadati\Tamrin\Stac\Stac\bin\Debug\net6.0\Stac.exe
+C:\mahdi saadati\Tamrin\Stac\Stac\bin\Debug\net6.0\Stac.deps.json
+C:\mahdi saadati\Tamrin\Stac\Stac\bin\Debug\net6.0\Stac.runtimeconfig.json
+C:\mahdi saadati\Tamrin\Stac\Stac\bin\Debug\net6.0\Stac.dll
+C:\mahdi saadati\Tamrin\Stac\Stac\bin\Debug\net6.0\Stac.pdb
+C:\mahdi saadati\Tamrin\Stac\Stac\obj\Debug\net6.0\Stac.csproj.AssemblyReference.cache
+C:\mahdi saadati\Tamrin\Stac\Stac\obj\Debug\net6.0\Stac.GeneratedMSBuildEditorConfig.editorconfig
+C:\mahdi saadati\Tamrin\Stac\Stac\obj\Debug\net6.0\Stac.AssemblyInfoInputs.cache
+C:\mahdi saadati\Tamrin\Stac\Stac\obj\Debug\net6.0\Stac.AssemblyInfo.cs
+C:\mahdi saadati\Tamrin\Stac\Stac\obj\Debug\net6.0\Stac.csproj.CoreCompileInputs.cache
+C:\mahdi saadati\Tamrin\Stac\Stac\obj\Debug\net6.0\Stac.dll
+C:\mahdi saadati\Tamrin\Stac\Stac\obj\Debug\net6.0\refint\Stac.dll
+C:\mahdi saadati\Tamrin\Stac\Stac\obj\Debug\net6.0\Stac.pdb
+C:\mahdi saadati\Tamrin\Stac\Stac\obj\Debug\net6.0\Stac.genruntimeconfig.cache
+C:\mahdi saadati\Tamrin\Stac\Stac\obj\Debug\net6.0\ref\Stac.dll
