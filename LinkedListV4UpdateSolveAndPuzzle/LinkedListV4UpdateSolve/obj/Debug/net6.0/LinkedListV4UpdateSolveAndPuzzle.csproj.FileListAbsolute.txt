@@ -1,0 +1,14 @@
+C:\Users\Mahdi\Desktop\LinkedListV4UpdateSolve\LinkedListV4UpdateSolve\bin\Debug\net6.0\LinkedListV4UpdateSolveAndPuzzle.exe
+C:\Users\Mahdi\Desktop\LinkedListV4UpdateSolve\LinkedListV4UpdateSolve\bin\Debug\net6.0\LinkedListV4UpdateSolveAndPuzzle.deps.json
+C:\Users\Mahdi\Desktop\LinkedListV4UpdateSolve\LinkedListV4UpdateSolve\bin\Debug\net6.0\LinkedListV4UpdateSolveAndPuzzle.runtimeconfig.json
+C:\Users\Mahdi\Desktop\LinkedListV4UpdateSolve\LinkedListV4UpdateSolve\bin\Debug\net6.0\LinkedListV4UpdateSolveAndPuzzle.dll
+C:\Users\Mahdi\Desktop\LinkedListV4UpdateSolve\LinkedListV4UpdateSolve\bin\Debug\net6.0\ref\LinkedListV4UpdateSolveAndPuzzle.dll
+C:\Users\Mahdi\Desktop\LinkedListV4UpdateSolve\LinkedListV4UpdateSolve\bin\Debug\net6.0\LinkedListV4UpdateSolveAndPuzzle.pdb
+C:\Users\Mahdi\Desktop\LinkedListV4UpdateSolve\LinkedListV4UpdateSolve\obj\Debug\net6.0\LinkedListV4UpdateSolveAndPuzzle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahdi\Desktop\LinkedListV4UpdateSolve\LinkedListV4UpdateSolve\obj\Debug\net6.0\LinkedListV4UpdateSolveAndPuzzle.AssemblyInfoInputs.cache
+C:\Users\Mahdi\Desktop\LinkedListV4UpdateSolve\LinkedListV4UpdateSolve\obj\Debug\net6.0\LinkedListV4UpdateSolveAndPuzzle.AssemblyInfo.cs
+C:\Users\Mahdi\Desktop\LinkedListV4UpdateSolve\LinkedListV4UpdateSolve\obj\Debug\net6.0\LinkedListV4UpdateSolveAndPuzzle.csproj.CoreCompileInputs.cache
+C:\Users\Mahdi\Desktop\LinkedListV4UpdateSolve\LinkedListV4UpdateSolve\obj\Debug\net6.0\LinkedListV4UpdateSolveAndPuzzle.dll
+C:\Users\Mahdi\Desktop\LinkedListV4UpdateSolve\LinkedListV4UpdateSolve\obj\Debug\net6.0\ref\LinkedListV4UpdateSolveAndPuzzle.dll
+C:\Users\Mahdi\Desktop\LinkedListV4UpdateSolve\LinkedListV4UpdateSolve\obj\Debug\net6.0\LinkedListV4UpdateSolveAndPuzzle.pdb
+C:\Users\Mahdi\Desktop\LinkedListV4UpdateSolve\LinkedListV4UpdateSolve\obj\Debug\net6.0\LinkedListV4UpdateSolveAndPuzzle.genruntimeconfig.cache
