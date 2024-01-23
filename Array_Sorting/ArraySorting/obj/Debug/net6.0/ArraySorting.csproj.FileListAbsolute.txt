@@ -1,0 +1,15 @@
+C:\Users\Mahdi\Desktop\ArraySorting\ArraySorting\bin\Debug\net6.0\ArraySorting.exe
+C:\Users\Mahdi\Desktop\ArraySorting\ArraySorting\bin\Debug\net6.0\ArraySorting.deps.json
+C:\Users\Mahdi\Desktop\ArraySorting\ArraySorting\bin\Debug\net6.0\ArraySorting.runtimeconfig.json
+C:\Users\Mahdi\Desktop\ArraySorting\ArraySorting\bin\Debug\net6.0\ArraySorting.dll
+C:\Users\Mahdi\Desktop\ArraySorting\ArraySorting\bin\Debug\net6.0\ref\ArraySorting.dll
+C:\Users\Mahdi\Desktop\ArraySorting\ArraySorting\bin\Debug\net6.0\ArraySorting.pdb
+C:\Users\Mahdi\Desktop\ArraySorting\ArraySorting\obj\Debug\net6.0\ArraySorting.csproj.AssemblyReference.cache
+C:\Users\Mahdi\Desktop\ArraySorting\ArraySorting\obj\Debug\net6.0\ArraySorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahdi\Desktop\ArraySorting\ArraySorting\obj\Debug\net6.0\ArraySorting.AssemblyInfoInputs.cache
+C:\Users\Mahdi\Desktop\ArraySorting\ArraySorting\obj\Debug\net6.0\ArraySorting.AssemblyInfo.cs
+C:\Users\Mahdi\Desktop\ArraySorting\ArraySorting\obj\Debug\net6.0\ArraySorting.csproj.CoreCompileInputs.cache
+C:\Users\Mahdi\Desktop\ArraySorting\ArraySorting\obj\Debug\net6.0\ArraySorting.dll
+C:\Users\Mahdi\Desktop\ArraySorting\ArraySorting\obj\Debug\net6.0\ref\ArraySorting.dll
+C:\Users\Mahdi\Desktop\ArraySorting\ArraySorting\obj\Debug\net6.0\ArraySorting.pdb
+C:\Users\Mahdi\Desktop\ArraySorting\ArraySorting\obj\Debug\net6.0\ArraySorting.genruntimeconfig.cache

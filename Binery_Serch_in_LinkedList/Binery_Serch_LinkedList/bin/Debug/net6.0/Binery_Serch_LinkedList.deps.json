@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Binery_Serch_LinkedList/1.0.0": {
+        "runtime": {
+          "Binery_Serch_LinkedList.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Binery_Serch_LinkedList/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
