@@ -1,0 +1,15 @@
+C:\mahdi saadati\Tamrin\TamrinDr\TamrinDr\bin\Debug\net6.0\TamrinDr.exe
+C:\mahdi saadati\Tamrin\TamrinDr\TamrinDr\bin\Debug\net6.0\TamrinDr.deps.json
+C:\mahdi saadati\Tamrin\TamrinDr\TamrinDr\bin\Debug\net6.0\TamrinDr.runtimeconfig.json
+C:\mahdi saadati\Tamrin\TamrinDr\TamrinDr\bin\Debug\net6.0\TamrinDr.dll
+C:\mahdi saadati\Tamrin\TamrinDr\TamrinDr\bin\Debug\net6.0\TamrinDr.pdb
+C:\mahdi saadati\Tamrin\TamrinDr\TamrinDr\obj\Debug\net6.0\TamrinDr.csproj.AssemblyReference.cache
+C:\mahdi saadati\Tamrin\TamrinDr\TamrinDr\obj\Debug\net6.0\TamrinDr.GeneratedMSBuildEditorConfig.editorconfig
+C:\mahdi saadati\Tamrin\TamrinDr\TamrinDr\obj\Debug\net6.0\TamrinDr.AssemblyInfoInputs.cache
+C:\mahdi saadati\Tamrin\TamrinDr\TamrinDr\obj\Debug\net6.0\TamrinDr.AssemblyInfo.cs
+C:\mahdi saadati\Tamrin\TamrinDr\TamrinDr\obj\Debug\net6.0\TamrinDr.csproj.CoreCompileInputs.cache
+C:\mahdi saadati\Tamrin\TamrinDr\TamrinDr\obj\Debug\net6.0\TamrinDr.dll
+C:\mahdi saadati\Tamrin\TamrinDr\TamrinDr\obj\Debug\net6.0\refint\TamrinDr.dll
+C:\mahdi saadati\Tamrin\TamrinDr\TamrinDr\obj\Debug\net6.0\TamrinDr.pdb
+C:\mahdi saadati\Tamrin\TamrinDr\TamrinDr\obj\Debug\net6.0\TamrinDr.genruntimeconfig.cache
+C:\mahdi saadati\Tamrin\TamrinDr\TamrinDr\obj\Debug\net6.0\ref\TamrinDr.dll
