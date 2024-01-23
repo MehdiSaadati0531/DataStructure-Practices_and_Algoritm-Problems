@@ -1,0 +1,15 @@
+C:\Users\Mahdi\Desktop\InsertionSortWithBinarySarch\InsertionSortWithBinarySarch\bin\Debug\net6.0\InsertionSortWithBinarySarch.exe
+C:\Users\Mahdi\Desktop\InsertionSortWithBinarySarch\InsertionSortWithBinarySarch\bin\Debug\net6.0\InsertionSortWithBinarySarch.deps.json
+C:\Users\Mahdi\Desktop\InsertionSortWithBinarySarch\InsertionSortWithBinarySarch\bin\Debug\net6.0\InsertionSortWithBinarySarch.runtimeconfig.json
+C:\Users\Mahdi\Desktop\InsertionSortWithBinarySarch\InsertionSortWithBinarySarch\bin\Debug\net6.0\InsertionSortWithBinarySarch.dll
+C:\Users\Mahdi\Desktop\InsertionSortWithBinarySarch\InsertionSortWithBinarySarch\bin\Debug\net6.0\ref\InsertionSortWithBinarySarch.dll
+C:\Users\Mahdi\Desktop\InsertionSortWithBinarySarch\InsertionSortWithBinarySarch\bin\Debug\net6.0\InsertionSortWithBinarySarch.pdb
+C:\Users\Mahdi\Desktop\InsertionSortWithBinarySarch\InsertionSortWithBinarySarch\obj\Debug\net6.0\InsertionSortWithBinarySarch.csproj.AssemblyReference.cache
+C:\Users\Mahdi\Desktop\InsertionSortWithBinarySarch\InsertionSortWithBinarySarch\obj\Debug\net6.0\InsertionSortWithBinarySarch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahdi\Desktop\InsertionSortWithBinarySarch\InsertionSortWithBinarySarch\obj\Debug\net6.0\InsertionSortWithBinarySarch.AssemblyInfoInputs.cache
+C:\Users\Mahdi\Desktop\InsertionSortWithBinarySarch\InsertionSortWithBinarySarch\obj\Debug\net6.0\InsertionSortWithBinarySarch.AssemblyInfo.cs
+C:\Users\Mahdi\Desktop\InsertionSortWithBinarySarch\InsertionSortWithBinarySarch\obj\Debug\net6.0\InsertionSortWithBinarySarch.csproj.CoreCompileInputs.cache
+C:\Users\Mahdi\Desktop\InsertionSortWithBinarySarch\InsertionSortWithBinarySarch\obj\Debug\net6.0\InsertionSortWithBinarySarch.dll
+C:\Users\Mahdi\Desktop\InsertionSortWithBinarySarch\InsertionSortWithBinarySarch\obj\Debug\net6.0\ref\InsertionSortWithBinarySarch.dll
+C:\Users\Mahdi\Desktop\InsertionSortWithBinarySarch\InsertionSortWithBinarySarch\obj\Debug\net6.0\InsertionSortWithBinarySarch.pdb
+C:\Users\Mahdi\Desktop\InsertionSortWithBinarySarch\InsertionSortWithBinarySarch\obj\Debug\net6.0\InsertionSortWithBinarySarch.genruntimeconfig.cache
