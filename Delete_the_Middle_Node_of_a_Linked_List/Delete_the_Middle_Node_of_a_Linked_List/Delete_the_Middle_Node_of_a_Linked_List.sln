@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delete_the_Middle_Node_of_a_Linked_List", "Delete_the_Middle_Node_of_a_Linked_List\Delete_the_Middle_Node_of_a_Linked_List.csproj", "{4A53B628-643C-4844-BA23-44F027D3E0DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A53B628-643C-4844-BA23-44F027D3E0DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A53B628-643C-4844-BA23-44F027D3E0DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A53B628-643C-4844-BA23-44F027D3E0DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A53B628-643C-4844-BA23-44F027D3E0DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {890C8F46-3AF3-4B76-B711-DE4052A60B4F}
+	EndGlobalSection
+EndGlobal

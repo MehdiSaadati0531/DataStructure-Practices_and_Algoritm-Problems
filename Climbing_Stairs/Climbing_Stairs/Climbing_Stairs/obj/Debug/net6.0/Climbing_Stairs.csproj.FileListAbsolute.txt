@@ -1,0 +1,15 @@
+C:\Users\Mahdi\Desktop\Climbing_Stairs\Climbing_Stairs\bin\Debug\net6.0\Climbing_Stairs.exe
+C:\Users\Mahdi\Desktop\Climbing_Stairs\Climbing_Stairs\bin\Debug\net6.0\Climbing_Stairs.deps.json
+C:\Users\Mahdi\Desktop\Climbing_Stairs\Climbing_Stairs\bin\Debug\net6.0\Climbing_Stairs.runtimeconfig.json
+C:\Users\Mahdi\Desktop\Climbing_Stairs\Climbing_Stairs\bin\Debug\net6.0\Climbing_Stairs.dll
+C:\Users\Mahdi\Desktop\Climbing_Stairs\Climbing_Stairs\bin\Debug\net6.0\ref\Climbing_Stairs.dll
+C:\Users\Mahdi\Desktop\Climbing_Stairs\Climbing_Stairs\bin\Debug\net6.0\Climbing_Stairs.pdb
+C:\Users\Mahdi\Desktop\Climbing_Stairs\Climbing_Stairs\obj\Debug\net6.0\Climbing_Stairs.csproj.AssemblyReference.cache
+C:\Users\Mahdi\Desktop\Climbing_Stairs\Climbing_Stairs\obj\Debug\net6.0\Climbing_Stairs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahdi\Desktop\Climbing_Stairs\Climbing_Stairs\obj\Debug\net6.0\Climbing_Stairs.AssemblyInfoInputs.cache
+C:\Users\Mahdi\Desktop\Climbing_Stairs\Climbing_Stairs\obj\Debug\net6.0\Climbing_Stairs.AssemblyInfo.cs
+C:\Users\Mahdi\Desktop\Climbing_Stairs\Climbing_Stairs\obj\Debug\net6.0\Climbing_Stairs.csproj.CoreCompileInputs.cache
+C:\Users\Mahdi\Desktop\Climbing_Stairs\Climbing_Stairs\obj\Debug\net6.0\Climbing_Stairs.dll
+C:\Users\Mahdi\Desktop\Climbing_Stairs\Climbing_Stairs\obj\Debug\net6.0\ref\Climbing_Stairs.dll
+C:\Users\Mahdi\Desktop\Climbing_Stairs\Climbing_Stairs\obj\Debug\net6.0\Climbing_Stairs.pdb
+C:\Users\Mahdi\Desktop\Climbing_Stairs\Climbing_Stairs\obj\Debug\net6.0\Climbing_Stairs.genruntimeconfig.cache
